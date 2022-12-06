@@ -83,7 +83,7 @@ export default function DetailPage(props) {
               <div className=" align-content-center col-md-3 border-left mt-5">
                 <div className="d-flex flex-row align-items-center justify-content-center">
                   <span className="strike-text">IDR</span>
-                  <h4 className="ms-md-2">{items.price}</h4>
+                  <h2 className="ms-md-2">{items.price}</h2>
                   <span className="strike-text">.000</span>
                 </div>
                 <div>
